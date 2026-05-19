@@ -1,6 +1,6 @@
 /**
- * Student Numbers: XXXXXXXXX, XXXXXXXXX, XXXXXXXXX, XXXXXXXXX, XXXXXXXXX, XXXXXXXXX
- * Student Names  : Member 1, Member 2, Member 3, Member 4, Member 5, Member 6
+* Student Numbers: 222093753, 223005951, 221045356, 221032445, 223082890,
+ * Student Names  : DM Skitla, KL Boisa, TD Mokoena, KD Hlokoane, SD Tshabalala,
  * Question: application_viewmodel.dart - MVVM ViewModel for SA Applications
  *           Implements full CRUD: Create, Read, Update, Delete with Supabase
  */
