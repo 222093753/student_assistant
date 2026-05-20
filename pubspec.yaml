@@ -1,0 +1,24 @@
+name: group_a
+description: Student Assistant Application System - TPG316C Group Assignment
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.0
+  supabase_flutter: ^2.0.0
+  image_picker: ^1.0.5
+  file_picker: ^6.1.1
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
